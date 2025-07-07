@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from pymongo import MongoClient
+"""Lists all documents in a MondoDB clloection"""
 
 def list_all(mongo_collection):
     """Lists all documents in a collection"""
